@@ -4,7 +4,7 @@
     "desc": "NeoAminix is a cutting-edge decentralized finance (DeFi) platform, harnessing the power of the VeChain organization's technology. Experience a new era of financial possibilities through NeoAminix's innovative solutions and seamless integration with the VeChain ecosystem.",
     "category": "defi",
     "tags": ["tools","development"],
-    "repo": "https://github.com/example/projectName",
+    "repo": "https://github.com/KOSASIH/NeoAminix",
     "contracts": [
         "0x356c2aA6A9483529aBa1cE538B99cF5cD26199a3",
         
