@@ -1,0 +1,12 @@
+{
+    "name": "NeoAminic",
+    "href": "https://neoaminix.com",
+    "desc": "This is an awesome app",
+    "category": "defi",
+    "tags": ["tools","development"],
+    "repo": "https://github.com/example/projectName",
+    "contracts": [
+        "0x1234567890123456789012345678901234567890",
+        "0x0987654321098765432109876543210987654321"
+    ]
+}
